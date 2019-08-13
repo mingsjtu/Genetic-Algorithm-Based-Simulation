@@ -1,0 +1,2 @@
+#Basic Assumption
+[]{}
