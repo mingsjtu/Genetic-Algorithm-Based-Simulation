@@ -8,6 +8,16 @@ components that make up the system. Then we do algorithm research and simulation
 Monte Carlo method, and finally get the important parameters such as the number of repairs, the 
 trouble-free running time, and the no major fault running time. We wish to provide the best solution for 
 the design of the system, and give reasonable suggestions for the improvement of the system.
-## Machine Structure
-![image]{}
+## Physics Model
+[image and description](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/tree/master/BasicAssumption)
+![image](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/blob/master/1.png)
+## Basic Assumption
 
+[image and description](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/tree/master/BasicAssumption)
+## Simulation
+* Tools:MATLAB 2016b
+* [Detailed Description]()
+
+## Result
+## Expasion
+## Code Structure
