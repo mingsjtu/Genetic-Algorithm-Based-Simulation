@@ -12,12 +12,16 @@ the design of the system, and give reasonable suggestions for the improvement of
 [image and description](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/tree/master/BasicAssumption)
 ![image](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/blob/master/1.png)
 ## Basic Assumption
-
 [image and description](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/tree/master/BasicAssumption)
 ## Simulation
 * Tools:MATLAB 2016b
-* [Detailed Description]()
+*  ![image](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/blob/master/2Algorithm.png)
 
 ## Result
+*  ![image](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/blob/master/3Result1.png)
+*  ![image](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/blob/master/3Result2.png)
+*  ![image](https://github.com/mingsjtu/Genetic-Algorithm-Based-Simulation/blob/master/3Result3.png)
 ## Expasion
+* [image and description]()
 ## Code Structure
+* []()
