@@ -1,6 +1,7 @@
 # Report
 ## Included Parts
-* BasicModel
+* Basic Model
 * Algorithm
 * Simulation
 * Result
+* Expand
